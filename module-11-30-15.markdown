@@ -45,6 +45,7 @@
 * MB Burch - [Play with Music with Sonic Pi](https://gist.github.com/mbburch/9e98212d9b4a5a40169a)
 * Justin Pease - Beginner object model class for foxtrotters
 * Brenna Martenson- [CSS & Inspect Element] (https://gist.github.com/martensonbj/f1d796b76b20ebe68da3)
+* Aaron Greenspan - The Halting Problem Explained (and proved!)
 
 ### **Week of 12/14**
 
